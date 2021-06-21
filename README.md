@@ -1,2 +1,2 @@
 # Chat App
-Chat App built by React Js, CSS, and HTML.
+Chat App built using React Js, CSS, and HTML.
